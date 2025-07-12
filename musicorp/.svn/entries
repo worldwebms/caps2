@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16151"
+   name=""
+   committed-date="2013-11-26T05:49:48.747533Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/musicorp"
+   last-author="brad"
+   kind="dir"
+   uuid="541070b7-28e3-0310-9550-d9b1cac33464"
+   revision="16178"/>
+<entry
+   committed-rev="16151"
+   name="email_filters.php"
+   text-time="2007-10-16T00:59:43.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="bbcc93363ac521eff162816d081642f4"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-16T00:59:43.000000Z"/>
+<entry
+   name="includes"
+   kind="dir"/>
+<entry
+   committed-rev="2384"
+   name="email.php"
+   text-time="2007-10-15T03:21:18.000000Z"
+   committed-date="2007-10-15T03:17:10.205720Z"
+   checksum="cd164f3aaba9e6d2e8e1896fa1cbc6d9"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T03:21:18.000000Z"/>
+</wc-entries>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16174"
+   name=""
+   committed-date="2013-11-28T07:39:09.247364Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/pdf/fpdf/font"
+   last-author="karl"
+   kind="dir"
+   uuid="541070b7-28e3-0310-9550-d9b1cac33464"
+   revision="16178"/>
+<entry
+   committed-rev="16174"
+   name="calibrib.z"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="d38139dd96c4df6b8928198eeaaf779d"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="timesi.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="4ff5b220d7c754e2150c2d0ab7f7a499"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="timesbi.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="72952b50ab13815c82aa984d76516e13"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="helvetica.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="18a86c71e4288c7cfe6ad5116fe097c3"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="symbol.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="56b0bdc3e447810455731272a60bb343"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="calibri.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="fd79eed39f2eb176e99b117cf73961ee"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="helveticab.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="536316f08a186e84a7c43cad3c09a1a5"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="calibrib.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="6b73f214395f2c1c09822eb36f2a8370"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="courier.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="fc24409ed4079afe5a49dc21bfc18dc6"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="arial.z"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="6be28a16c07f9d79a338f7aaa950ceb8"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="zapfdingbats.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="05296fa60133b7a415237b2083f1a748"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="helveticai.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="54e8686215214fc28e4a1eb9e9a3b05b"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   name="makefont"
+   kind="dir"/>
+<entry
+   committed-rev="16174"
+   name="helveticabi.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="8ebacb40c1a5f8a65cb311d6bd131216"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="times.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="bbf949b03a5c8e5095b8c712de28856d"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="timesb.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="6704a156b70e2c1cca70b2764563b934"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="calibri.z"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="ed71d8386930a6ec5993283de097cdf1"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="arial.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="4f4e3685276d5ec9480be17641b37d95"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+</wc-entries>

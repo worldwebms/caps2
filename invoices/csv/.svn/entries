@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1797"
+   name=""
+   committed-date="2007-02-16T01:21:17.500012Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/invoices/csv"
+   last-author="jim"
+   kind="dir"
+   revision="1797"/>
+<entry
+   committed-rev="1797"
+   name="email_config_17-11-2004.csv"
+   text-time="2004-11-16T22:30:42.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="9caba9117e3900b4e588df0c1ab52c14"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_12-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="471511c21c1957f4a00ee4a763097960"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_28-10-2004.csv"
+   text-time="2004-10-28T01:29:29.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="3a18c57e1b9845d3ebe30c4ddedbf589"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_03-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="8f3ea1d041d8f5cdaf1f52bde1d322c2"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_08-12-2004.csv"
+   text-time="2004-12-07T23:26:41.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="3164e930842d94e53a74a11ff8a862c3"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_19-11-2004.csv"
+   text-time="2004-11-18T23:49:03.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="0e94995d36c49f0cb6a656e8a3e4f29f"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_08-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d033f4d314612fe901641bd6dc4a96a1"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_25-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="b0b6a3aa16df027b606bbfc5c8a259b0"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_05-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e7b5706580dce44879ce15bf8c5944af"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_16-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="73b0da7331da999eebf4f39aaf7e123c"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_29-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="66bb686b1f4a2d8773713f4d147df985"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_09-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="fa5c31b5558b278c73bd48ed3e53ba54"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_05-12-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="706660b79bdf8d3c182fed92728e5d50"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_06-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="8f02003076e69cf7446ac762d447309f"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_08-12-2004.csv"
+   text-time="2004-12-07T23:36:56.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="c66d20a6eeb09512d198938f41bf65b6"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_07-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="070f9d712e12627e6577b98273da48f4"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="client_emails.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="17ac44543d0e61ef34c4a5fc46f3b959"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_22-11-2004.csv"
+   text-time="2004-11-22T07:07:11.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="7cb67134ce0cc4b06bb41a5165e3fa02"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_13-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e3b876b49261d7863912beb6b4fd5541"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_10-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="43de042f9c79d0d1233d89f04eff4122"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_04-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="b63b802d31c3ffa29a606ab85e280509"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_15-12-2004.csv"
+   text-time="2004-12-15T03:46:55.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="77a4605346a085d8fc186b574606dc7c"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_15-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="b6ed4359284f545ea9666a691437a7c8"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_21-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_26-11-2004.csv"
+   text-time="2004-11-26T04:20:32.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="c0057756ec3b662c391aa08860ac2eaa"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_12-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="8437e88e249ab6817fc870aaa4509972"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_17-12-2004.csv"
+   text-time="2004-12-17T05:11:43.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="0404523450b9bd4a679ca1df277de467"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_03-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="06a3e543d7eced2f740a8e0dc4d8a10c"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_23-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="b3ca6d227059405e3d295cc027b05c03"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_08-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6a7ddbe4f2953121088519eec55382aa"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_16-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="5417afd80648d600d01a79c83a3d1a4d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_27-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d62c8803eca3e12f63cdf0918412578a"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_07-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="0d88a9797b824096e9415fb0d1789a51"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_29-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="1406cbee6e8659241f40390be52fc595"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_11-08-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f7ccf3fe0c653737bb88a432fcff08a4"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_06-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="67423c267fde284f1798266273ddf980"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_04-09-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e05b3ba3b7f16aaf139ab47c9aa26a6f"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="15-12-2004_client_emails.csv"
+   text-time="2004-12-15T05:57:36.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="2eeb3a7715b0674a24144e8994abdcde"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_11-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6faaf53414f142829c109449a7d6d1b6"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_22-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6a7ddbe4f2953121088519eec55382aa"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_07-10-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="8ac15d084f9bb3973770a432f4f20fb3"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_13-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="5cb9ec4c8d50f5d87f781bfa2026c8e4"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_04-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="14fb9f0d5c7090848db2ddcd3898060e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_10-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="14741f136bd6a2a29adcae49536fe633"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_30-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="3d7421b262770011097a53352057e661"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_list_11-12-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="ebb7ab7b6452a756308d1c74e989d132"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_09-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="0dccb603c2f52ba54175458c698ba9ce"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_23-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="04e6f01b7d2ac603e5350e28fae081db"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_28-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="df7313461ad84b9cf88a27ed69c5a1a2"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_14-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="8d27e7fe9590f92e60803f972a8eca16"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_19-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="fbce0ca3998cf1617e528fc940cb49a0"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_16-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="cbd00d548f099adc4b7eeeb36aff5426"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_07-10-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="a60cccd97d09a2a29ac92e5ea20b58bb"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_08-10-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6b97be28577aab9ac125018856cb53d5"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_11-09-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="9af0fbca697c64d5e4db19132be9bd1a"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_07-06-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="741dea2b582c90030c3659aa8abc7fa8"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_09-06-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="741dea2b582c90030c3659aa8abc7fa8"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_20-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="0a98fae7acf453428309d4565210d90f"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_11-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6c9fe14f01f4594b1f311fc5e2e84664"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_16-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="bf5210952cd9e27509070adc41b62f98"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_18-10-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="42e59075f4216ee3e0e029697f779109"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_18-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_09-11-2004.csv"
+   text-time="2004-11-09T09:05:24.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f7e1976d0c5ff2b298ba086b6d3f9eb6"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_list_22-12-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="ef82e5e8cee1cc4c7d7ea2241fc09dc7"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_15-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="bd9bdc3449f13db295a88053511669c6"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_21-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="ec3377df0bf0111ffb99795042a2cd74"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_26-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="cedb30e07b32c0877560b90a0af298a3"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_list_06-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="7ac486e37e22eec90c0de83dceeec33a"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_17-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="c276a9d5a6d968dd883f7ede2628726b"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_01-07-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="2173001720e37526b1d3cad2962b84fc"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_11-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="478fedbd0516e46841765d19343c3e71"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_07-07-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="3cd538bd438b586ad03c16799d7c1e2f"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_26-09-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d0d1282d2ce9afc3fece65878e188eb2"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="glascraft.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_10-11-2004.csv"
+   text-time="2004-11-10T03:24:30.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="14d6f5d492c6b0d17fa98407e1936a3f"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_12-11-2004.csv"
+   text-time="2004-11-12T04:55:12.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="b4956a08a941760fd6ba39eea887fa3d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_12-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="183b4a1259b51727b264854f295dc6f8"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_03-12-2004.csv"
+   text-time="2004-12-02T22:45:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="8962f133bfdd3b834c2ed4d80ed01608"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_31-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="fffd227816f670d0a49aa965e7c0c660"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_16-11-2004.csv"
+   text-time="2004-11-16T03:35:44.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6ba983625d3939bbfeb028ca8380cdf6"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_02-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e7e322c6800aae3d77c688200cb46a77"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_07-12-2004.csv"
+   text-time="2004-12-07T04:59:02.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_27-10-2004.csv"
+   text-time="2004-10-27T02:57:46.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="82c33e871d4902b170c5bf7ad00a095d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_07-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e9e4054cc89c6da2c63dbf1629c0ffe2"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_18-11-2004.csv"
+   text-time="2004-11-18T02:02:39.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d96dd4368954e6ce8992c911e2692b65"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_29-10-2004.csv"
+   text-time="2004-10-29T06:27:00.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="93dbc885a2e5ff552454d0c74a7af7c5"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_09-12-2004.csv"
+   text-time="2004-12-08T23:05:00.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="51e72b21e7f3804d64726f095d9a184f"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_04-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="46e8c4a704b321dae33e979afece50bb"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_18-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f6f340a00950d9141bef6ecdaa528df8"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="15-12-2004_client_email_list.csv"
+   text-time="2004-12-15T06:08:30.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="3a1f4410c55efac0afed8f3ac876d1a3"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_15-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e6b363bc7d060dd36f04d63ff1a643b1"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_06-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="103b2fe4d47d805b03f578234e2ed7ad"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_28-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="b7d23382c4df8b5c3c885600227bc39e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_04-12-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="706660b79bdf8d3c182fed92728e5d50"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_19-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d8ab412f923ef4f0869edd1f9baaa396"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_23-06-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="2173001720e37526b1d3cad2962b84fc"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_09-08-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f7ccf3fe0c653737bb88a432fcff08a4"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_10-12-2004.csv"
+   text-time="2004-12-10T02:25:37.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="bc6129e5f48289e5291200feb0951396"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_23-11-2004.csv"
+   text-time="2004-11-23T00:27:46.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="91edbebb9403d9187c55e47cc3aa97d1"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_14-12-2004.csv"
+   text-time="2004-12-14T01:19:05.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="87df9f4991e88bbee00d8dc0f59befff"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_20-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_25-11-2004.csv"
+   text-time="2004-11-25T08:53:19.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="527a69fd28b71d00a89f3bf12b5492ba"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_16-12-2004.csv"
+   text-time="2004-12-16T03:04:14.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="35f95f83c4c1fd2aa60fa8cae478eba8"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_02-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="911ed710361e0b66854487fc7b02a9e2"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_16-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="c50e528ce6610690a850b96e0050e836"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_22-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="eb329eeb41c8994ded2609634c7c28c9"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_13-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="b7024e09a00043c499dc2b3a81fbaf04"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_07-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6d86445792d35e74de1590b1b1ebd35d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_18-12-2004.csv"
+   text-time="2004-12-17T23:14:29.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="4a863f56d753121204d4d479fec690b9"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_09-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="806bc4b5332c68741175e942d60f4648"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_29-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="be42a65b948c7c0c82332f558346817b"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_11-12-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d4efefc6c955b16308e532736cd39063"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_26-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="1d4b7eaff018dbc4e2ae3ff34717e0cb"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_17-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="a286ac09751214d7a054cc42b86569b3"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_08-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="7a580876eba53966141de8c9bf3132ee"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_28-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="21d4e198fb942abe02b972334430db20"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_06-01-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="bdfc4898095602a473bcf53871f9be23"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_19-08-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d0dad74d6e4de9c532a9e50ea6e9d0f0"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_25-07-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="959182035ed116f2aefdaed80a7dbe0e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_08-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="a60cccd97d09a2a29ac92e5ea20b58bb"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_30-11-2004.csv"
+   text-time="2004-11-30T03:44:48.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="805338c0042cfd8beb0b6e5dc9c5b9b3"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_10-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6a7ddbe4f2953121088519eec55382aa"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_01-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="ddb714ba4a12c699bfdeb804ba4acf72"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_06-10-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="5e59eff329273a7507c05e1cfaf90fba"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_21-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="62504312670cf493caef85ad65002672"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_12-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f2411bc8352c243e23b2445f9dde63d5"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_06-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="153a77fb33fef0acc301e469a24b1c24"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_23-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_08-10-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f0282a8e4234c04a8f49f306842f433b"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_14-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e04defea3a572e77d917e7ce475aa334"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_11-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="cae8da6d82c4917e1e758245a593ba30"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_27-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="77d54974ca8163d82be6cf3fbc99c98e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_07-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_13-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_18-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e92ad5875d8ebad52cbe17f6fcf4b3bf"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_15-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e385e8a2043c751c47c498cd9e197703"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_07-10-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6b97be28577aab9ac125018856cb53d5"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_06-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="49a29e63eaf2d0c3d1df0bb08298220d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_08-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="49a29e63eaf2d0c3d1df0bb08298220d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_07-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="6e11d3bd76d8eaf1bb35c08062f0cffb"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_02-11-2004.csv"
+   text-time="2004-11-02T06:02:09.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="2f905b35d74e6f70d0f226a417a160eb"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_02-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="7be17b3558088af322a52e71f4df8e3c"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_15-10-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="92d40168c9af4719d79d099177a0a937"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_04-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="74112961f9d196c022ed210418e5d571"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_21-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="e2237cedb2d7efb22102eac8304c3f58"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_01-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="911ed710361e0b66854487fc7b02a9e2"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_08-11-2004.csv"
+   text-time="2004-11-08T06:49:12.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="52feaa6abf1d161f27b0a8d6ea75ebaf"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_08-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="9e3ac088a44365690dbc92bb9a993f78"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_25-05-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="207c8f492f3811199b954e97de9c99d2"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_19-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="caa8f9e0a94e5b1623218f6dcf3428df"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_22-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f22af763e0d9e278a27f89cc4738c088"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_16-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="21291c57d661f696c7461701ca392e49"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_24-09-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="b93cc2db8fd3e73f8b2624e3a686964c"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_04-11-2004.csv"
+   text-time="2004-11-04T05:09:41.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="5ba4aaf436562df2442e16aa033dfbae"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_07-11-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="748a3ff3d76c6bde2a45a97ab48c8d66"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_06-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f4e69ed11c691a068c9f1e004f8340c8"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_09-11-2003.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="748a3ff3d76c6bde2a45a97ab48c8d66"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="invoice_list_09-07-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="a0f6287fc640aa05e7b363c6e5314785"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_20-10-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_20-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="bb450ed511ce867be66bf02563cbe392"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_11-11-2004.csv"
+   text-time="2004-11-11T04:03:39.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f3bcf354e067e728034ea1a6c842788b"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_22-10-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="39c840cfaac94b756ebc2ae05efc7965"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_02-12-2004.csv"
+   text-time="2004-12-01T23:42:46.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="f1cc6a613698467e2399ee24af3cd36b"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_11-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="d3ca088b5526c8dd6369dbb96ec2574e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_02-04-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="c11d08118c1734bda5b9be5fd9bf56bb"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_13-03-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="a7464bd48df0e6a6b583ff5ff3ebf6a4"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_24-02-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="397925ab1c56973cc8a28c9423bb3a2d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+<entry
+   committed-rev="1797"
+   name="email_config_21-06-2004.csv"
+   text-time="2004-10-27T01:13:16.000000Z"
+   committed-date="2007-02-16T01:21:17.500012Z"
+   checksum="3c5f140e619c8d20c322b0fd6f3e03b7"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:11:37.000000Z"/>
+</wc-entries>

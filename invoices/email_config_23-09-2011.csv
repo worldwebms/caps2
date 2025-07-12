@@ -1,0 +1,5 @@
+"USRDELE","vmail.worldwebms.com","coversdirect.com.au","admin"
+"USRDELE","vmail.worldwebms.com","coversdirect.com.au","ssladmin"
+"FORWARDDEL","vmail.worldwebms.com","coversdirect.com.au","ssladmin","hostmaster@worldwebms.com"
+"USRADD","vmail.worldwebms.com","coveritmanufacturing.com.au","hostmaster","forward","2048",""
+"FORWARDADD","vmail.worldwebms.com","coveritmanufacturing.com.au","hostmaster","hostmaster@worldwebms.com","N"

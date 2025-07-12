@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16174"
+   name=""
+   committed-date="2013-11-28T07:39:09.247364Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/pdf/fpdf/decoders"
+   last-author="karl"
+   kind="dir"
+   uuid="541070b7-28e3-0310-9550-d9b1cac33464"
+   revision="16178"/>
+<entry
+   committed-rev="16174"
+   name="ASCII85Decode.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="794edf550f4abb7de810f24cc4e15d42"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="lzw.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="20e22eb036c959f71480b8a2db709879"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="LZWDecode.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="df4f272e43f03639adbbe95acbba546d"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="ascii85.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="4f9fb81f905ca14ac8778ee466fb50c6"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+</wc-entries>

@@ -1,0 +1,7 @@
+"USRADD","vmail.worldwebms.com","thefishermansparadise.com.au","fishing","fish1","2048",""
+"USRADD","vmail.worldwebms.com","thefishermansparadise.com.au","sales","fish1","2048",""
+"FORWARDADD","vmail.worldwebms.com","thefishermansparadise.com.au","sales","fishing@thefishermansparadise.com.au","N"
+"USRADD","vmail.worldwebms.com","thefishermansparadise.com.au","keith","fish1","2048",""
+"FORWARDADD","vmail.worldwebms.com","thefishermansparadise.com.au","keith","fishing@thefishermansparadise.com.au","N"
+"USRADD","vmail.worldwebms.com","fishermansparadise.biz","keith","fish1","2048",""
+"FORWARDUPDATE","vmail.worldwebms.com","fishermansparadise.biz","keith","fishing@thefishermansparadise.com.au","N"

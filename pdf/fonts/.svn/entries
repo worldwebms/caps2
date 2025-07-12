@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1796"
+   name=""
+   committed-date="2007-02-16T01:08:14.052505Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/pdf/fonts"
+   last-author="jim"
+   kind="dir"
+   uuid="541070b7-28e3-0310-9550-d9b1cac33464"
+   revision="16178"/>
+<entry
+   committed-rev="1796"
+   name="php_a0100131.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="5b90fa9424efe4d48a402ed169368f3b"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Courier-Oblique.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="e6ebbe04cac1f46bc934bc1768ac771a"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Courier-BoldOblique.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="4f6dc04833cc65dc6f80c8f61b5106fe"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Courier.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="3fe6cf457d48bd2cf886e0de5d247aef"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Helvetica-Bold.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="903138877a9861ab735441a28abafe6e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_ZapfDingbats.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="c491f066b55329cfac1484004644acf4"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Times-Italic.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="9e1dd4d4e1740c6f07a5e7d441c8d7d5"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Times-BoldItalic.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="55d379f5def5c2e9b17c3a99fe189bf6"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Courier-Bold.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="bccf45d8f716f4eaa4e1e7564cb086e4"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Helvetica-Bold.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="a3025a8c5ebcc1286431943c3024323d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Times-Italic.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="65668edeb34d1f74201dda8d3c4b264e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Times-Roman.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="dbdc4a3d8ff59065a8ee1c5b99d80555"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Times-BoldItalic.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="ae4e89f48ef041b15bbcaf34c28e5a06"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Courier-Bold.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="c12d684d7bbb4b557ea3131102234d76"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Times-Bold.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="c89eecba3b7001c6728afa5c00325500"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Helvetica-Oblique.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="aa29b997c5f36aaf5b2eefd79f935156"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Times-Roman.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="763fd15db83587d718e62a5425cf6d6c"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Helvetica-BoldOblique.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="db00a0a9341ac741b8c155e02e847949"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Helvetica.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="c4d23dc105f753b7596ac233ed1d5340"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Symbol.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="b4a0380a9218d59a0fade19bd62267a0"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Times-Bold.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="1debff165f2637945955b5cd6b6f3568"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Courier-Oblique.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="c60fe3160336986f188907a61eb9b3c4"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Courier-BoldOblique.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="2fdb86ccba01a2a0dc7529afb22389cf"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="Courier.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="16452980d6e5ff0ee4b2ebe23c168dbd"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_a010013l.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="5b90fa9424efe4d48a402ed169368f3b"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Helvetica-Oblique.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="8a684adb0f20b97e57454ae718e7ef20"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Helvetica-BoldOblique.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="950d84279cb5d26a4f24ae222e9ea5cd"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Helvetica.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="bbbe06159490227e6e17f1726b014497"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="php_Symbol.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="c6514602dcea9561546c703b72c38672"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="ZapfDingbats.afm"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="2cd8c462e075c9dda87546ab356aaa32"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+</wc-entries>

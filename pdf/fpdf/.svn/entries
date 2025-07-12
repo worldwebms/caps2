@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16174"
+   name=""
+   committed-date="2013-11-28T07:39:09.247364Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/pdf/fpdf"
+   last-author="karl"
+   kind="dir"
+   uuid="541070b7-28e3-0310-9550-d9b1cac33464"
+   revision="16178"/>
+<entry
+   committed-rev="16174"
+   name="pdf_context.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="170a3667571d90800292cfc128c19ea1"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="fpdf_tpl.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="3d82aeae2fdd42f754816e2fd98191ef"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="fpdf.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="5885fa8d95b3490002a888f1402f5bf4"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="fpdf_protect.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="57b72c103c0a4bd059279c6985dc53ac"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   name="font"
+   kind="dir"/>
+<entry
+   committed-rev="16174"
+   name="fpdi2tcpdf_bridge.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="588083c9c3990ed48ec33b12fa42db5f"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   name="decoders"
+   kind="dir"/>
+<entry
+   committed-rev="16174"
+   name="fpdi.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="9444c16238c9b2165e6a122751898580"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="pdf_parser.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="a41ab4e4ac591d5ebb6ea05ee243d65d"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="fpdi_pdf_parser.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="6848c56ab18565ab3eb7af99c1a5597d"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="wrapper_functions.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="5bb2723971439e07066e72835085f5a7"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="fpdi_protection.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="00a4896079492e4182a4b7344206c6e4"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+<entry
+   committed-rev="16174"
+   name="pdf_rotation.php"
+   text-time="2013-11-28T07:47:09.000000Z"
+   committed-date="2013-11-28T07:39:09.247364Z"
+   checksum="6a9b2ce1d3e300a7e56997e3e3dc965b"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:09.000000Z"/>
+</wc-entries>

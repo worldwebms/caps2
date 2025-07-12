@@ -1,0 +1,442 @@
+BODY
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt
+}
+form {
+	padding: 0;
+	margin: 0;
+}
+.text  {	
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #FFFFFF;	
+	text-align: left;
+}
+.textcentre  {	
+	font-family : Arial, Verdana, geneva;	
+	font-size : 10px;	
+	color : #FFFFFF;	
+	text-align: center;
+}
+.smalltext  {	
+	font-family : Arial, Verdana, geneva;	
+	font-size : 7pt;	
+	color : #FFFFFF;	
+	text-align: left;
+}
+.subheading  {	
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #FFFFFF;	
+	text-align: left;
+	background-color: #007EBB;
+}
+.instruction  {
+	font-family : Arial, Verdana, geneva;
+	font-size : 8pt;
+	color : #CCCCCC;
+	text-align: left;
+	font-style: italic;
+}
+A
+{
+    COLOR: #006699;
+    TEXT-DECORATION: none;
+}
+A:hover
+{
+    COLOR: #000000;
+    TEXT-DECORATION: underline;
+}
+A.footer
+{
+    COLOR: #8CBBD1;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 8pt;
+    TEXT-DECORATION: none;
+}
+A.footer:hover
+{
+    COLOR: #FFFFFF;
+    TEXT-DECORATION: underline;
+}
+.footer 
+{  COLOR: #3399CC;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 8pt
+}
+.blacksmall input.submit {
+	background: transparent;
+	border: 0;
+}
+A.blacksmall, .blacksmall input.submit
+{
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #000000;	
+	text-align: left;
+	TEXT-DECORATION: none;
+}
+.blacksmall input.submit:hover {
+	text-decoration: underline;
+}
+A.blacksmall:hover
+{
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #000000;	
+	text-align: left;
+	TEXT-DECORATION: none;
+}
+.blacksmall
+{
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #4F4F4F;	
+	text-align: left;
+	TEXT-DECORATION: none;
+}
+A.bluesmall
+{
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #006699;	
+	text-align: left;
+}
+A.bluesmall:hover
+{
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #006699;	
+	text-align: left;
+}
+.bluesmall
+{
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #006699;	
+	text-align: left;
+}
+.clienttitle
+{
+	font-family : Arial, Verdana, geneva;	
+	font-size : 12pt;	
+	color : #FFFFFF;	
+	text-align: left;
+}
+
+INPUT.smallwhite {
+	font-family: Arial, Verdana, geneva;
+	font-size: 8pt;
+	color: #4F4F4F;
+	background: #FFFFFF;
+	border: 1px solid #006699;
+	padding: 1px 2px 1px 2px;
+}
+INPUT.smallblue, TEXTAREA.smallblue {
+	font-family: Arial, Verdana, geneva;
+	font-size: 8pt;
+	color: #4F4F4F;
+	background: #EFEFEF;
+	border: 1px solid #000000;
+	padding: 1px 2px 1px 2px;
+}
+INPUT.smallblack {
+	font-family: Arial, Verdana, geneva;
+	font-size: 7pt;
+	color: #4F4F4F;
+	background: #EFEFEF;
+	border: 1px solid #000000;
+	padding: 1px 2px 1px 2px;
+}
+INPUT.black {
+	font-family: Arial, Verdana, geneva;
+	font-size: 8pt;
+	color: #4F4F4F;
+	background: #EFEFEF;
+	border: 1px solid #333333;
+	padding: 1px 2px 1px 2px;
+}
+INPUT.subheading  {	
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #FFFFFF;	
+	text-align: left;
+	background-color: #007EBB;
+	border: 1px solid #007EBB;
+	padding: 1px 2px 1px 2px;
+}
+INPUT.text  {	
+	font-family : Arial, Verdana, geneva;	
+	font-size : 8pt;	
+	color : #FFFFFF;	
+	text-align: left;
+	background-color: #0070A6;
+	border: 1px solid #0070A6;
+	padding: 1px 2px 1px 2px;
+}
+INPUT.smallbluebutton {
+	font-family: Arial, Verdana, geneva;
+	font-size: 7pt;
+	color: #4F4F4F;
+	background: #FFFFCC;
+	border: 0px solid #B9E9FF;
+}
+SELECT.smallblack {
+	font-family: Arial, Verdana, geneva;
+	font-size: 7pt;
+	color: #4F4F4F;
+	background: #EFEFEF;
+	border: 0px solid #000000;
+}
+SELECT.black {
+	font-family: Arial, Verdana, geneva;
+	font-size: 8pt;
+	color: #4F4F4F;
+	background: #EFEFEF;
+	border: 0px solid #000000;
+}
+SELECT.smallblue {
+	font-family: Arial, Verdana, geneva;
+	font-size: 8pt;
+/*	color: #006699;
+	background: #FFFFFF; */
+	color: #4f4f4f;
+	background: #efefef;
+	border: 0px solid #000000;
+}
+TEXTAREA.smallblue {
+	font-family: Arial, Verdana, geneva;
+	font-size: 8pt;
+	color: #4F4F4F;
+	background: #EFEFEF;
+	border: 1px solid #333333;
+}
+
+
+.admin_list tr.odd td, .admin_list tr.even td {
+	background-color: #0070A6
+}
+.admin_list tr.heading td {
+	padding-top: 1em;
+	border-bottom: 1px solid #bbbbbb;
+	background-color: transparent;
+	vertical-align: bottom;
+}
+.admin_list tr.transparent td {
+	background-color: transparent;
+}
+.admin_list tr.odd:hover td, .admin_list tr.even:hover td {
+	background-color: #007EBB;
+}
+.admin_list td a:only-child {
+	display:block;
+}
+.admin_list td.deploy {
+	background-color: #00cc00 !important;
+}
+.admin_list td.hold {
+	background-color: #aa0000 !important;
+}
+.admin_list td.test, .admin_list td.discuss, .admin_list td.define, .admin_list td.design, .admin_list td.develop {
+	background-color: #cc9900 !important;
+}
+.admin_list td.review {
+	background-color: #00cccc !important;
+}
+.admin_list tr.completed td.status {
+	background-color: #0070A6 !important;
+}
+.admin_list tr.completed td, .admin_list tr.completed a, .admin_list tr.completed font { color: #999 !important; }
+
+#job_assign th, #job_assign td {
+	text-align: center;
+	font-weight: normal;
+	padding: 1px 2px 1px 2px;
+}
+#job_assign td {
+	width: 24px;
+}
+#job_assign th .assign {
+	text-align: left;
+}
+#job_assign .highlight {
+	font-weight: bold;
+	background-color: #0070A6;
+}
+#job_assign .highlight2 {
+	background-color: #efefef;
+}
+
+
+/* DATE BOX STYLES */
+
+.DATEcpYearNavigation,
+.DATEcpMonthNavigation
+{
+	background-color: #cfcfcf;
+	text-align: center;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.DATEcpDayColumnHeader,
+.DATEcpYearNavigation,
+.DATEcpMonthNavigation,
+.DATEcpCurrentMonthDate,
+.DATEcpCurrentMonthDateDisabled,
+.DATEcpOtherMonthDate,
+.DATEcpOtherMonthDateDisabled,
+.DATEcpCurrentDate,
+.DATEcpCurrentDateDisabled,
+.DATEcpTodayText,
+.DATEcpTodayTextDisabled,
+.DATEcpText
+{
+	font-family: Arial;
+	font-size: 8pt;
+	line-height: 10pt;
+}
+TD.DATEcpDayColumnHeader
+{
+	text-align: center;
+	border: 0px solid gray;
+	border-width: 0px 0px 1px 0px;
+	color: #808080;
+	font-weight: bold;
+}
+.DATEcpCurrentMonthDate,
+.DATEcpOtherMonthDate,
+.DATEcpCurrentDate
+{
+	text-align: center;
+	text-decoration: none;
+}
+.DATEcpCurrentMonthDateDisabled,
+.DATEcpOtherMonthDateDisabled,
+.DATEcpCurrentDateDisabled
+{
+	color: #D0D0D0;
+	text-align: right;
+	text-decoration: line-through;
+}
+.DATEcpCurrentMonthDate
+{
+	/*color: black;*/
+	font-weight: bold;
+}
+.DATEcpCurrentDate
+{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.DATEcpOtherMonthDate
+{
+	color: #808080;
+}
+TD.DATEcpCurrentDate
+{
+	color: #FFFFFF;
+	background-color: #cfcfcf;
+	border: 1px solid gray;
+}
+TD.DATEcpCurrentDateDisabled
+{
+	border: 1px solid #FFAAAA;
+}
+TD.DATEcpTodayText,
+TD.DATEcpTodayTextDisabled
+{
+	border-width: 1px 0px 0px 0px;
+	border-color: gray;
+	border-style: solid;
+}
+
+A.DATEcpTodayText,
+SPAN.DATEcpTodayTextDisabled
+{
+	height:20px;
+}
+A.DATEcpTodayText
+{
+	/*color:#6677DD;*/
+	font-weight:bold;
+	display: block;
+}
+SPAN.DATEcpTodayTextDisabled
+{
+	color:#D0D0D0;
+}
+.DATEcpBorder
+{
+	border: 1px solid gray;
+}
+TD.DATEcpCurrentMonthDate A, TD.DATEcpOtherMonthDate A {
+	display: block;
+	padding: 2px;
+}
+.DATEcpBorder TD {
+	padding: 0;
+}
+a.calendarLink {
+	background-position:center center;
+	background-repeat:no-repeat;
+	font-size:13px;
+	height:20px;
+}
+a.calendarLink:hover {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+/*** Time Selection Control ***/
+
+#time_control {
+	position: absolute;
+	width: 50px;
+	height: 150px;
+	z-index: 2;
+	overflow: scroll;
+	overflow-x: auto;
+	border: 1px solid #cccccc;
+	visibility: hidden;
+}
+#time_control div {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	text-align: center;
+	background-color: #e8e8e8;
+	border-bottom: 1px solid #cccccc;
+	cursor: pointer;
+	color: #000000;
+}
+#time_control div.minute {
+	color: #cccccc;
+}
+#time_control div.hour {
+	background-color: #cccccc;
+}
+#time_control div.hour:hover {
+	background-color: #f0f0f0;
+}
+#time_control div:hover {
+	background-color: #f8f8f8;
+}
+#time_control div.selected {
+	background-color: #999999;
+	color: #ffffff;
+}
+
+a.timeLink {
+	background-position:center center;
+	background-repeat:no-repeat;
+	font-size:13px;
+	height:20px;
+	background-image: url('../images/time.gif');
+}
+a.timeLink:hover {
+	text-decoration: none;
+	cursor: pointer;
+}

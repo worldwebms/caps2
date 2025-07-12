@@ -1,0 +1,38 @@
+<table width="100%" height="53" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+	<tr> 
+		<td height="53"><a tabIndex="25" href="welcome.php"><img src="images/worldweb_logo.gif" width="180" height="53" border="0"></a></td>
+		<!-- <td><a><span style="font-weight:bold;font-size:20px">Development</span></a></td> -->
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr> 
+					<td height="13" valign="top" class="bluesmall">
+						<div align="right"><img src="images/spacer.gif" width="40" height="13">CAPS: 
+							Welcome <?php echo $fullname; ?><img src="images/spacer.gif" width="25" height="8">Today's 
+							Date: <?php echo date( "F j, Y" ); ?><img src="images/spacer.gif" width="25" height="8">
+							<a tabIndex="25" href="welcome.php">Home</a> &nbsp;|&nbsp;
+							<a tabIndex="25" href="contact_summary.php" target="contacts" onclick="NewWindow('','contacts',480,400)">Contact Summary</a> &nbsp;|&nbsp;
+							<a tabIndex="25" href="add_client.php">Add Client</a> &nbsp;|&nbsp;
+							<a tabIndex="25" href="reports.php">Reports</a> &nbsp;|&nbsp;
+							<a tabIndex="25" href="job_time_report.php">Time Sheet</a> &nbsp;|&nbsp;
+							<a tabIndex="25" href="logout.php">Logout</a> &nbsp; &nbsp;
+						</div>
+					</td>
+				</tr>
+				<tr> 
+					<td height="40" valign="bottom" align="right">
+						<form name="searchme" action="index1.php" method="get">
+							<input name="search_type" type="hidden" value="company">
+							<span class="footer">search:</span> 
+							<input name="mysearch" type="text" class="smallwhite" size="40" tabindex="0"> 
+							<span class="blacksmall"><input tabIndex="0" type="submit" class="submit" value="GO"> 
+							<img src="images/spacer.gif" width="8" height="8"><em>or search 
+							by:</em> <a href="" accesskey="R" tabindex="0" onclick="Onsubmit_ref(); return false">reference</a> 
+							| <a href="" accesskey="D" tabindex="0" onclick="Onsubmit_domain(); return false">domain</a> 
+							| <a href="" accesskey="C" tabindex="0" onclick="Onsubmit_con(); return false">contacts</a></span><img src="images/spacer.gif" width="10" height="9"> 
+						</form>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>

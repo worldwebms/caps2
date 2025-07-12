@@ -1,0 +1,6 @@
+email: user: password
+e-mail: david@musicorp.com.au user: david@musicorp.com.au password: mtkk4g5
+e-mail: accounts@musicorp.com.au user: david@musicorp.com.au password: mtkk4g5
+e-mail: sales@musicorp.com.au user: david@musicorp.com.au password: mtkk4g5
+e-mail: brad@musicorp.com.au user: brad@musicorp.com.au password: hhgf
+e-mail: phil@musicorp.com.au user: phil@musicorp.com.au password: ttyu

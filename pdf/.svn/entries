@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16174"
+   name=""
+   committed-date="2013-11-28T07:39:09.247364Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/pdf"
+   last-author="karl"
+   kind="dir"
+   uuid="541070b7-28e3-0310-9550-d9b1cac33464"
+   revision="16178"/>
+<entry
+   name="fpdf"
+   kind="dir"/>
+<entry
+   committed-rev="2384"
+   name="pdfme.php"
+   text-time="2007-10-15T03:21:18.000000Z"
+   committed-date="2007-10-15T03:17:10.205720Z"
+   checksum="7bcdfd208961e5ccabfb8ffeab0271a3"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T03:21:18.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="class.ezpdf.php"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="288201af121a4ab58b7824a356eb0231"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="class.pdf.php"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="af0e8b57564c06461f0b66562dc8a24a"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   name="fonts"
+   kind="dir"/>
+<entry
+   committed-rev="1796"
+   name="additional_feature.pdf"
+   text-time="2007-02-16T01:09:07.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="00349d799b252d5b6c6dc4bf73b3f583"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:07.000000Z"/>
+</wc-entries>

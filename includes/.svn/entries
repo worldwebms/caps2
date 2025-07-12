@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16178"
+   name=""
+   committed-date="2013-11-29T01:08:12.907273Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/includes"
+   last-author="karl"
+   kind="dir"
+   uuid="541070b7-28e3-0310-9550-d9b1cac33464"
+   revision="16178"/>
+<entry
+   committed-rev="16151"
+   name="contact_summary.inc"
+   text-time="2012-10-30T23:26:25.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="ebf3ff3e3b4fb8c3f23218b36a8467e2"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-16T01:09:04.000000Z"/>
+<entry
+   committed-rev="16169"
+   name="caps_styles.css"
+   text-time="2013-08-16T07:34:53.000000Z"
+   committed-date="2013-11-27T07:12:55.997378Z"
+   checksum="e4627540a70043777d63fef5f59955ef"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-28T07:47:08.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="invoice_list.csv"
+   text-time="2013-09-05T01:33:28.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="24f8a1ab6c4f8b4e23018a9e2f2fd73d"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="2390"
+   name="calendar.js"
+   text-time="2007-10-15T07:57:15.000000Z"
+   committed-date="2007-10-15T07:56:38.481468Z"
+   checksum="e85b7e20ad8708287beef062d62befaf"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T07:57:15.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="downloader.php"
+   text-time="2007-02-16T01:09:06.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="de2eea8bddd7bfda54e700e8e4d75de6"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="client_top.php"
+   text-time="2012-10-30T23:35:42.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="651ee078654221c4de80905c614b4f28"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T03:21:18.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="top.php"
+   text-time="2012-01-24T01:14:28.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="509b2ec760760b311900c3050114cf2c"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-16T06:24:46.000000Z"/>
+<entry
+   committed-rev="2384"
+   name="client.js"
+   text-time="2007-10-15T03:21:18.000000Z"
+   committed-date="2007-10-15T03:17:10.205720Z"
+   checksum="c9ff2a4b913869007777dceda6246e88"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T03:21:18.000000Z"/>
+<entry
+   committed-rev="2384"
+   name="job_assign.js"
+   text-time="2007-10-15T03:21:18.000000Z"
+   committed-date="2007-10-15T03:17:10.205720Z"
+   checksum="097e13514cf156fd34303fbabb5716ac"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T03:21:18.000000Z"/>
+<entry
+   committed-rev="10787"
+   name="jquery.js"
+   text-time="2011-06-22T08:30:46.000000Z"
+   committed-date="2011-06-23T02:29:23.950094Z"
+   checksum="343607636acfee88faa2b638330a3370"
+   last-author="brad"
+   kind="file"
+   prop-time="2011-06-23T02:27:18.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="functions.php"
+   text-time="2013-05-13T23:30:40.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="4b4337de9be653fc49bdb61d3c867aa8"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-17T02:32:20.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="file_manager.php"
+   text-time="2007-02-16T01:09:06.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="c265ba9250676291e7a51ff9d7ad26be"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="log.txt"
+   text-time="2013-11-08T01:57:17.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="62930e85f72a7b1e6abf6ed852dda434"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="2384"
+   name="worldweb.js"
+   text-time="2007-10-15T03:21:18.000000Z"
+   committed-date="2007-10-15T03:17:10.205720Z"
+   checksum="dcb02520371de8354e26a04b9d7f5e14"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T03:21:18.000000Z"/>
+<entry
+   committed-rev="2390"
+   name="header.inc"
+   text-time="2007-10-15T07:57:15.000000Z"
+   committed-date="2007-10-15T07:56:38.481468Z"
+   checksum="aa4ab3a202e54c85bceb5a31f3abed99"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T07:57:15.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="email_list.txt"
+   text-time="2007-02-16T01:09:06.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="b577acb5670bb4b72dec087ac3d0bbf2"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="footer.inc"
+   text-time="2007-02-16T01:09:06.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="4d214dd44eaca17a5b8c100a0cee7ebc"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="16178"
+   name="CapsPDF.php"
+   text-time="2013-11-28T07:47:08.000000Z"
+   committed-date="2013-11-29T01:08:12.907273Z"
+   checksum="cfb5d1bc11af80337c4a7e88b796359d"
+   last-author="karl"
+   kind="file"
+   prop-time="2013-11-29T01:16:17.000000Z"/>
+<entry
+   committed-rev="2406"
+   name="DateField.php"
+   text-time="2007-10-17T05:04:52.000000Z"
+   committed-date="2007-10-17T05:04:44.026869Z"
+   checksum="34f67e7774a254b82432b5fe9fef268d"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-17T05:04:52.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="globals.php"
+   text-time="2011-09-14T07:47:29.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="bf049da201a2bc0aedb9ce8ff75aafa0"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T03:21:18.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="time.js"
+   text-time="2011-07-22T13:04:44.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="f7125437ca6e2fa82ec948ed1a2b3d6d"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-17T02:37:27.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="my_jobs.inc"
+   text-time="2012-10-30T23:20:13.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="588e6dcc384d5be3fea01e50be553f20"
+   last-author="brad"
+   kind="file"
+   prop-time="2008-03-13T00:16:01.000000Z"/>
+<entry
+   committed-rev="16151"
+   name="email_list.csv"
+   text-time="2013-11-21T03:15:22.000000Z"
+   committed-date="2013-11-26T05:49:48.747533Z"
+   checksum="71230c8715f9415846d95f55aec0b7a9"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-02-16T01:09:06.000000Z"/>
+<entry
+   committed-rev="2384"
+   name="admin_links.php"
+   text-time="2007-10-15T03:21:18.000000Z"
+   committed-date="2007-10-15T03:17:10.205720Z"
+   checksum="58a890be6c4a03d66f732dcc752175c6"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T03:21:18.000000Z"/>
+</wc-entries>

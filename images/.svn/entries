@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2390"
+   name=""
+   committed-date="2007-10-15T07:56:38.481468Z"
+   url="https://svn.worldwebms.com/worldweb/caps/trunk/images"
+   last-author="brad"
+   kind="dir"
+   uuid="541070b7-28e3-0310-9550-d9b1cac33464"
+   revision="16178"/>
+<entry
+   committed-rev="1796"
+   name="word.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="4e2f6bb1482fb195e36a224bd5bb0b1d"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="welcome.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="801e73766dd760276c3ce0e913170f8a"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="spacer.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="c5b62ddb56b0f04e9db3c25b176f9e3b"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="txt.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="b044993b74c6d9e8e8b2e649e9fa497a"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="2390"
+   name="cal.gif"
+   text-time="2007-10-15T07:57:15.000000Z"
+   committed-date="2007-10-15T07:56:38.481468Z"
+   checksum="e05d8b00f8595743d3326c92cd6f2365"
+   last-author="brad"
+   kind="file"
+   prop-time="2007-10-15T07:57:15.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="horizontal_line.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="4a60a7eaf1b43140f6f7bb51982d3892"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="excel.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="5c0427179c45f59a8a0e5f681ced471e"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="jpg.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="73fa3b117a608f1dcb733ce0bf0521bc"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="gif.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="6cd7b3ae047bdd72de4809037ad3aaaf"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="worldweb_logo.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="74d30d9f97ee388e045078675e150a9f"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+<entry
+   committed-rev="1796"
+   name="pdf.gif"
+   text-time="2007-02-16T01:09:05.000000Z"
+   committed-date="2007-02-16T01:08:14.052505Z"
+   checksum="528a5752b6d3a83a002771cd8cb24f30"
+   last-author="jim"
+   kind="file"
+   prop-time="2007-02-16T01:09:05.000000Z"/>
+</wc-entries>
